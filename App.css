@@ -1,0 +1,55 @@
+.btn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 1600px;
+  height: 1000px;
+}
+.red{
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 50px;
+  width: 80px;
+  background-color: red;
+  color: white;
+}
+.yellow{
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 50px;
+  width: 80px;
+  background-color: yellow;
+  color: black ;
+}
+.green{
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 50px;
+  width: 80px;
+  background-color: green;
+  color: white;
+}
+.blue{
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 50px;
+  width: 80px;
+  background-color: blue;
+  color: white;
+}
+.black{
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 50px;
+  width: 80px;
+  background-color: black;
+}
+.orange{
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 50px;
+  width: 80px;
+  background-color: orange;
+  color: white;
+}
