@@ -1,9 +1,7 @@
-
 import { useState } from "react"
 import "./App.css"
 function App() {
-  let [color, setColor]= useState("red")
-  
+let [color, setColor]= useState("red")
 return(
       <div className="btn" style={{backgroundColor: color}}>
      <button className="red" onClick={()=> setColor("red")}>RED</button>
@@ -14,6 +12,5 @@ return(
      <button className="orange" onClick={()=> setColor("orange")}>ORANGE</button>
       </div>
   )
-  
 }
 export default App
